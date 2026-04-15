@@ -1,0 +1,12614 @@
+[
+  {
+    "id": "42_001",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 119.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_002",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 53.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_003",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 171.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_004",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        8
+      ],
+      [
+        0,
+        4,
+        4
+      ],
+      [
+        0,
+        4,
+        2
+      ]
+    ],
+    "time_elapsed": 213.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_005",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "time_elapsed": 224.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_006",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 128.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_007",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        3
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 197.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_008",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 152.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_009",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 88.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_010",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 160.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_011",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 124.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_012",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ],
+    "time_elapsed": 194.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_013",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        9,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 164.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 144.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_015",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 48.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_016",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 227.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_017",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        5,
+        3
+      ]
+    ],
+    "time_elapsed": 123.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_018",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        2,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 141.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_019",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        7,
+        0
+      ]
+    ],
+    "time_elapsed": 208.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_020",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 86.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 211.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_022",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 136.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 140.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 75.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_025",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 64.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_026",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 135.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        5,
+        5
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 186.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_028",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 81.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_029",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 71.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 179.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 85.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_032",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        4,
+        0
+      ]
+    ],
+    "time_elapsed": 172.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_033",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 72.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_034",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 68.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_035",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        2
+      ]
+    ],
+    "time_elapsed": 137.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_036",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 230.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_037",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        6,
+        7
+      ],
+      [
+        6,
+        6,
+        4
+      ]
+    ],
+    "time_elapsed": 142.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_038",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 45.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_039",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 65.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 98.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 58.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 117.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 169.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_044",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 106.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "time_elapsed": 222.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_046",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 70.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_047",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 128.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_048",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 89.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_049",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 137.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_050",
+    "model": "zai/glm-5",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 172.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_001",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 22.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_002",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 8.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_003",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        8,
+        9,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 17.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_004",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        8
+      ],
+      [
+        0,
+        4,
+        4
+      ],
+      [
+        0,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 21.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_005",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "time_elapsed": 21.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_006",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 17.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_007",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        3
+      ],
+      [
+        0,
+        3,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 17.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_008",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 18.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_009",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 21.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_010",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 19.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_011",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 17.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_012",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ],
+    "time_elapsed": 19.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_013",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        9,
+        0
+      ],
+      [
+        1,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 24.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        8
+      ]
+    ],
+    "time_elapsed": 13.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_015",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 14.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_016",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 16.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_017",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        5,
+        3
+      ]
+    ],
+    "time_elapsed": 19.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_018",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        2,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 10.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_019",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        7,
+        0
+      ]
+    ],
+    "time_elapsed": 23.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_020",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 17.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 15.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_022",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 7.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 10.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 14.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_025",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        1,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 16.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_026",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 18.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        5,
+        5
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 15.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_028",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 11.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_029",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 10.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 16.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 15.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_032",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 17.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_033",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 21.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_034",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 13.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_035",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        9
+      ]
+    ],
+    "time_elapsed": 19.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_036",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        8,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 19.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        6,
+        7
+      ],
+      [
+        6,
+        6,
+        4
+      ]
+    ],
+    "time_elapsed": 18.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_038",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 3.0,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_039",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 4.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 18.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 11.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 12.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 17.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_044",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 11.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "time_elapsed": 19.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_046",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 10.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_047",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 18.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_048",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 14.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_049",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 18.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_050",
+    "model": "anthropic/claude-sonnet-4-6@default",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 13.2,
+    "correctness": 1.0
+  },
+
+    {
+    "id": "42_001",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 90.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_002",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 85.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_003",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 190.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_004",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        8
+      ],
+      [
+        0,
+        4,
+        4
+      ],
+      [
+        0,
+        4,
+        2
+      ]
+    ],
+    "time_elapsed": 150.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_005",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "time_elapsed": 126.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_006",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 140.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_007",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        3
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 101.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_008",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        7,
+        0,
+        7
+      ]
+    ],
+    "time_elapsed": 124.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_009",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": "ERROR",
+    "time_elapsed": 71.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_010",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 111.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_011",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 88.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_012",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        1,
+        4
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ],
+    "time_elapsed": 106.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_013",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        9,
+        1,
+        0
+      ],
+      [
+        1,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 112.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 71.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_015",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 80.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_016",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        1
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 109.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_017",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": "ERROR",
+    "time_elapsed": 107.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_018",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        2,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 115.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_019",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        7,
+        0
+      ]
+    ],
+    "time_elapsed": 163.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_020",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 88.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 70.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_022",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 87.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 60.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 116.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_025",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 122.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_026",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 59.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        6,
+        5,
+        5
+      ],
+      [
+        6,
+        5,
+        6
+      ],
+      [
+        6,
+        5,
+        5
+      ]
+    ],
+    "time_elapsed": 143.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_028",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 62.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_029",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 81.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 117.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 84.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_032",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        4,
+        0
+      ]
+    ],
+    "time_elapsed": 132.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_033",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 99.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_034",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 110.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_035",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        2
+      ]
+    ],
+    "time_elapsed": 133.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_036",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 187.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        6,
+        7
+      ],
+      [
+        6,
+        6,
+        4
+      ]
+    ],
+    "time_elapsed": 150.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_038",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": "ERROR",
+    "time_elapsed": 28.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_039",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 70.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 83.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 118.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 93.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        9
+      ],
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 69.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_044",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 178.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "time_elapsed": 178.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_046",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        6
+      ]
+    ],
+    "time_elapsed": 97.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_047",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 100.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_048",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 96.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_049",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 109.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_050",
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 126.7,
+    "correctness": 1.0
+  },
+
+    {
+    "id": "42_001",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 17.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_002",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_003",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 23.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_004",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        8
+      ],
+      [
+        0,
+        8,
+        4
+      ],
+      [
+        0,
+        4,
+        2
+      ]
+    ],
+    "time_elapsed": 23.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_005",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "time_elapsed": 24.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_006",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 16.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_007",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        3
+      ],
+      [
+        3,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 20.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_008",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 19.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_009",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        9
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 25.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_010",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        2,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 21.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_011",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 24.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_012",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ],
+    "time_elapsed": 19.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_013",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 21.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 17.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_015",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 17.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_016",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        1
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 22.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_017",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        5,
+        3
+      ]
+    ],
+    "time_elapsed": 22.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_018",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        2,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 14.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_019",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 22.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_020",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 15.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 14.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_022",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 11.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 14.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 19.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_025",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        7,
+        7
+      ],
+      [
+        1,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 19.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_026",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 21.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        5,
+        5
+      ],
+      [
+        0,
+        5,
+        5
+      ]
+    ],
+    "time_elapsed": 22.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_028",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 13.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_029",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 13.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 13.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 16.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_032",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        4,
+        0
+      ]
+    ],
+    "time_elapsed": 16.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_033",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 17.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_034",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 11.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_035",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        2,
+        0,
+        2
+      ],
+      [
+        5,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        2
+      ]
+    ],
+    "time_elapsed": 20.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_036",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 25.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        7
+      ],
+      [
+        6,
+        6,
+        7
+      ],
+      [
+        6,
+        6,
+        6
+      ]
+    ],
+    "time_elapsed": 24.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_038",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_039",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 18.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 14.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 12.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 20.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_044",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 20.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "time_elapsed": 24.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_046",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 11.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_047",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 18.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_048",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 21.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_049",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 13.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_050",
+    "model": "anthropic/claude-opus-4-6@default",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 22.5,
+    "correctness": 0.0
+  },
+
+    {
+    "id": "42_001",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 1.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_002",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_003",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_004",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        0
+      ],
+      [
+        0,
+        8,
+        4
+      ],
+      [
+        0,
+        2,
+        2
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_005",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        3,
+        9,
+        0
+      ],
+      [
+        3,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_006",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        5,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_007",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        9,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_008",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_009",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_010",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        6,
+        2,
+        6
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_011",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        3
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_012",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_013",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_015",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_016",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        1,
+        3,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_017",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        5,
+        5
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_018",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_019",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_020",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_022",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_025",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 1.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_026",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        6
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_028",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_029",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_032",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        4,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_033",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_034",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_035",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        9
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_036",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        8,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        6,
+        4
+      ],
+      [
+        6,
+        6,
+        4
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_038",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_039",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_044",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_046",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 1.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_047",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        7
+      ],
+      [
+        3,
+        0,
+        7
+      ]
+    ],
+    "time_elapsed": 0.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_048",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_049",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_050",
+    "model": "openai/gpt-5.4-2026-03-05",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 1.0
+  },
+
+    {
+    "id": "42_001",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 57.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_002",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 87.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_003",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        0,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 103.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_004",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        8
+      ],
+      [
+        0,
+        8,
+        4
+      ],
+      [
+        0,
+        4,
+        2
+      ]
+    ],
+    "time_elapsed": 115.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_005",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "time_elapsed": 77.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_006",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 103.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_007",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        3
+      ],
+      [
+        3,
+        0,
+        3
+      ],
+      [
+        0,
+        9,
+        3
+      ]
+    ],
+    "time_elapsed": 89.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_008",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        7,
+        0,
+        7
+      ]
+    ],
+    "time_elapsed": 79.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_009",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        9
+      ],
+      [
+        7,
+        0,
+        7
+      ],
+      [
+        9,
+        9,
+        7
+      ]
+    ],
+    "time_elapsed": 58.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_010",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        6
+      ]
+    ],
+    "time_elapsed": 113.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_011",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 83.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_012",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ],
+    "time_elapsed": 121.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_013",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        9,
+        1,
+        0
+      ],
+      [
+        1,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 133.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 76.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_015",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 49.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_016",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        1
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 91.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_017",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        4,
+        5,
+        5
+      ]
+    ],
+    "time_elapsed": 88.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_018",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 72.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_019",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        7
+      ],
+      [
+        7,
+        7,
+        7
+      ],
+      [
+        7,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 121.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_020",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        2,
+        2,
+        2
+      ]
+    ],
+    "time_elapsed": 105.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_021",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 106.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_022",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 47.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 81.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        8
+      ],
+      [
+        3,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 97.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_025",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 68.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_026",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 72.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        5,
+        5
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 81.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_028",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 59.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_029",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ]
+    ],
+    "time_elapsed": 42.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_030",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 80.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        7,
+        7,
+        7
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 85.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_032",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 80.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_033",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 94.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_034",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 56.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_035",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        2,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        2
+      ]
+    ],
+    "time_elapsed": 86.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_036",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        8,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 106.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        7
+      ],
+      [
+        6,
+        0,
+        4
+      ],
+      [
+        6,
+        6,
+        7
+      ]
+    ],
+    "time_elapsed": 134.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_038",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 75.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_039",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 103.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_040",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 89.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 49.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 47.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        9
+      ],
+      [
+        9,
+        9,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 100.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_044",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 45.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "time_elapsed": 109.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_046",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 80.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_047",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 95.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_048",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 174.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_049",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 109.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_050",
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 77.3,
+    "correctness": 1.0
+  },
+
+    {
+    "id": "42_001",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        5,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 3.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_002",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_003",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        8
+      ],
+      [
+        0,
+        9,
+        8
+      ],
+      [
+        9,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_004",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        4,
+        4,
+        2
+      ]
+    ],
+    "time_elapsed": 6.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_005",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        9,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_006",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        5,
+        5,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_007",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        7
+      ],
+      [
+        3,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 7.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_008",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        4,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        4
+      ]
+    ],
+    "time_elapsed": 1.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_009",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_010",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        6
+      ]
+    ],
+    "time_elapsed": 1.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_011",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_012",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        4
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_013",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        1
+      ],
+      [
+        9,
+        9,
+        1
+      ]
+    ],
+    "time_elapsed": 8.0,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        8
+      ],
+      [
+        2,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_015",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 7.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_016",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        3,
+        1,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_017",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        5,
+        5
+      ]
+    ],
+    "time_elapsed": 1.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_018",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_019",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        7
+      ]
+    ],
+    "time_elapsed": 1.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_020",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_022",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_023",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_024",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_025",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_026",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 1.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        5,
+        0
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 4.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_028",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_029",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        0,
+        0,
+        5
+      ]
+    ],
+    "time_elapsed": 3.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_031",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_032",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        4,
+        0
+      ]
+    ],
+    "time_elapsed": 1.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_033",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_034",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.4,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_035",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        2,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        5,
+        0,
+        5
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_036",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 1.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        7,
+        4,
+        0
+      ],
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_038",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.9,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_039",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_042",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.7,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_044",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 1.2,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_046",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 4.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_047",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        7
+      ],
+      [
+        7,
+        0,
+        7
+      ]
+    ],
+    "time_elapsed": 1.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_048",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 7.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_049",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.4,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_050",
+    "model": "deepseek-ai/deepseek-v3.2",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 1.7,
+    "correctness": 0.0
+  },
+
+    {
+    "id": "42_001",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 1.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_002",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_003",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        9
+      ],
+      [
+        0,
+        8,
+        9
+      ],
+      [
+        9,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_004",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        4,
+        8,
+        0
+      ],
+      [
+        4,
+        8,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_005",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        9,
+        3
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_006",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        1,
+        5,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_007",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        9,
+        3,
+        0
+      ],
+      [
+        0,
+        3,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_008",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        4,
+        7
+      ],
+      [
+        0,
+        4,
+        0
+      ],
+      [
+        4,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_009",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_010",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        6,
+        2,
+        6
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_011",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        4,
+        3,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_012",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        8,
+        1,
+        0
+      ],
+      [
+        4,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_013",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_015",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_016",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        3,
+        1,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_017",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        5,
+        5
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_018",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        2,
+        8,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_019",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        7,
+        7,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_020",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        9,
+        6,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_022",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_023",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_025",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_026",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        1,
+        0,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_027",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        6,
+        5,
+        0
+      ],
+      [
+        0,
+        5,
+        5
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_028",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_029",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_032",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_033",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 0.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_034",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_035",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        2,
+        0,
+        9
+      ],
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_036",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        8,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        6,
+        4,
+        0
+      ],
+      [
+        6,
+        4,
+        0
+      ],
+      [
+        6,
+        4,
+        7
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_038",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_039",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_042",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_044",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        2
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_045",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_046",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_047",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        4,
+        7,
+        3
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_048",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_049",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        7,
+        3,
+        0
+      ],
+      [
+        7,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_050",
+    "model": "qwen/qwen3-235b-a22b-instruct-2507",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+
+    {
+    "id": "42_001",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 1.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_002",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.7,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_003",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        9,
+        8,
+        0
+      ],
+      [
+        9,
+        8,
+        0
+      ],
+      [
+        9,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_004",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        8,
+        4
+      ],
+      [
+        0,
+        2,
+        4
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_005",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        3,
+        9,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_006",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        5,
+        5,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_007",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_008",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_009",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        7,
+        9
+      ],
+      [
+        0,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.7,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_010",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        6,
+        2,
+        6
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_011",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_012",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        8
+      ],
+      [
+        1,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_013",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        3
+      ],
+      [
+        0,
+        9,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        9,
+        9
+      ],
+      [
+        2,
+        2,
+        2
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_015",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        5
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_016",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        3,
+        1,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_017",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        5,
+        3
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_018",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        2,
+        8,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_019",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_020",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_021",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        6,
+        9
+      ],
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_022",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        4,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_024",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_025",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        7,
+        7,
+        1
+      ]
+    ],
+    "time_elapsed": 1.6,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_026",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_027",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        6
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_028",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_029",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_030",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        5
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_031",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_032",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        9,
+        4
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_033",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        5,
+        5,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_034",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_035",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        2
+      ],
+      [
+        2,
+        5,
+        5
+      ],
+      [
+        9,
+        5,
+        5
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_036",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        8,
+        5,
+        0
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        6,
+        4,
+        7
+      ],
+      [
+        6,
+        4,
+        6
+      ],
+      [
+        6,
+        4,
+        6
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_038",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.33
+  },
+  {
+    "id": "42_039",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_040",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_041",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_044",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_045",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        2,
+        2
+      ]
+    ],
+    "time_elapsed": 0.6,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_046",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_047",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        7,
+        7
+      ],
+      [
+        4,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_048",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_049",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_050",
+    "model": "openai/gpt-5.4-mini-2026-03-17",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 0.5,
+    "correctness": 0.33
+  },
+
+    {
+    "id": "42_001",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 359.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_002",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 179.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_003",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 382.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_004",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        8
+      ],
+      [
+        0,
+        4,
+        4
+      ],
+      [
+        0,
+        4,
+        2
+      ]
+    ],
+    "time_elapsed": 417.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_005",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "time_elapsed": 320.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_006",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 253.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_007",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        3
+      ],
+      [
+        3,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 220.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_008",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 260.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_009",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 205.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_010",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 371.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_011",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 255.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_012",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ],
+    "time_elapsed": 348.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_013",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        9,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 408.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 853.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_015",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 222.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_016",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 246.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_017",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        5,
+        3
+      ]
+    ],
+    "time_elapsed": 394.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_018",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        2,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 209.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_019",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        7,
+        0
+      ]
+    ],
+    "time_elapsed": 395.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_020",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 178.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 215.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_022",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 183.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 122.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 206.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_025",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 305.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_026",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 455.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        5,
+        5
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 321.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_028",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 258.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_029",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 293.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 371.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 166.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_032",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        4,
+        0
+      ]
+    ],
+    "time_elapsed": 150.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_033",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 205.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_034",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 159.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_035",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        2,
+        0,
+        2
+      ],
+      [
+        0,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        2
+      ]
+    ],
+    "time_elapsed": 358.5,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_036",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        5,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 403.9,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_037",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        6,
+        7
+      ],
+      [
+        6,
+        6,
+        4
+      ]
+    ],
+    "time_elapsed": 515.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_038",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 94.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_039",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 136.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 241.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 210.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 206.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 327.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_044",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 147.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "time_elapsed": 416.1,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_046",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 182.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_047",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        4
+      ],
+      [
+        7,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 558.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_048",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 298.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_049",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 297.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_050",
+    "model": "google/gemma-4-26b-a4b",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 282.5,
+    "correctness": 1.0
+  },
+
+    {
+    "id": "42_001",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        0
+      ]
+    ],
+    "time_elapsed": 28.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_002",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 16.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_003",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        8,
+        8,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ]
+    ],
+    "time_elapsed": 75.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_004",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        8
+      ],
+      [
+        0,
+        4,
+        4
+      ],
+      [
+        0,
+        4,
+        2
+      ]
+    ],
+    "time_elapsed": 61.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_005",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        1,
+        3
+      ]
+    ],
+    "time_elapsed": 50.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_006",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 16.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_007",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        3
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 58.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_008",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        4
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 31.6,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_009",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        9,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 35.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_010",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 61.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_011",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        4,
+        4
+      ]
+    ],
+    "time_elapsed": 25.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_012",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        8
+      ]
+    ],
+    "time_elapsed": 42.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_013",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 220.3,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_014",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        9,
+        8
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 18.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_015",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 23.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_016",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        3,
+        1
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 224.8,
+    "correctness": 0.0
+  },
+  {
+    "id": "42_017",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        5,
+        3
+      ]
+    ],
+    "time_elapsed": 38.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_018",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        2,
+        8
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 19.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_019",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        7,
+        7,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        7,
+        0
+      ]
+    ],
+    "time_elapsed": 28.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_020",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 35.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_021",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 22.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_022",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 15.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_023",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 10.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_024",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 25.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_025",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 37.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_026",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        1,
+        6
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "time_elapsed": 32.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_027",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        5,
+        5
+      ],
+      [
+        0,
+        5,
+        0
+      ]
+    ],
+    "time_elapsed": 29.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_028",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 20.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_029",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 13.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_030",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        8
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 19.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_031",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        7
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 28.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_032",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        4,
+        0
+      ]
+    ],
+    "time_elapsed": 29.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_033",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9
+      ]
+    ],
+    "time_elapsed": 29.2,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_034",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        5,
+        0
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 15.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_035",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        5,
+        2
+      ],
+      [
+        5,
+        5,
+        2
+      ]
+    ],
+    "time_elapsed": 39.3,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_036",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        1
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "time_elapsed": 50.0,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_037",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        6,
+        7
+      ],
+      [
+        6,
+        6,
+        4
+      ]
+    ],
+    "time_elapsed": 59.4,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_038",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 11.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_039",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 14.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_040",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 27.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_041",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        9,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 18.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_042",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 19.5,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_043",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        9,
+        9
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 44.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_044",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ],
+      [
+        2,
+        2,
+        0
+      ]
+    ],
+    "time_elapsed": 16.9,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_045",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "time_elapsed": 49.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_046",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ]
+    ],
+    "time_elapsed": 20.7,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_047",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        3
+      ]
+    ],
+    "time_elapsed": 39.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_048",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 39.1,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_049",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        7,
+        7
+      ]
+    ],
+    "time_elapsed": 52.8,
+    "correctness": 1.0
+  },
+  {
+    "id": "42_050",
+    "model": "google/gemini-3.1-pro-preview",
+    "predicted_answer": [
+      [
+        6,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "time_elapsed": 27.9,
+    "correctness": 1.0
+  }
+
+]

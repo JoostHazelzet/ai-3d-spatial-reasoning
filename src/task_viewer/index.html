@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Viewer - Orthographic Benchmark</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Task Viewer</h1>
+            <div class="file-controls">
+                <button id="loadBtn">📁 Load Dataset</button>
+                <span id="fileInfo" class="file-info"></span>
+            </div>
+            <div class="navigation">
+                <button id="firstBtn" disabled>⏮ First</button>
+                <button id="prevBtn" disabled>← Previous</button>
+                <div class="task-info">
+                    <span id="taskInfo">No dataset loaded</span>
+                    <div class="search-container">
+                        <input 
+                            type="number" 
+                            id="indexSearch" 
+                            placeholder="Index (e.g., 001)" 
+                            min="1" 
+                            disabled
+                        />
+                        <button id="searchBtn" disabled>Go</button>
+                    </div>
+                </div>
+                <button id="nextBtn" disabled>Next →</button>
+                <button id="lastBtn" disabled>⏭ Last</button>
+            </div>
+        </header>
+
+        <div id="statusMessage" class="status-message"></div>
+
+        <!-- File Browser Modal -->
+        <div id="fileBrowserModal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2>Load Dataset from Server</h2>
+                    <button class="modal-close" id="closeModalBtn">✕</button>
+                </div>
+                <div class="modal-body">
+                    <div id="fileList" class="file-list">
+                        <p class="loading">Loading files...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div id="noTaskMessage" class="no-task-message">
+                <p>👈 Click "Load Dataset" to begin</p>
+            </div>
+
+            <div id="taskContent" class="task-content" style="display: none;">
+                <div class="task-header">
+                    <h2>Task: <span id="taskId">-</span></h2>
+                </div>
+
+                <div class="three-d-section">
+                    <h3>3D View</h3>
+                    <div id="threeContainer" class="three-container"></div>
+                    <p class="controls-help">
+                        🖱️ Left click + drag to rotate | Right click + drag to pan | Scroll to zoom
+                        <button id="resetViewBtn">↺ Reset View</button>
+                    </p>
+                </div>
+
+                <div class="views-container">
+                    <h3>Orthographic Views</h3>
+                    <div class="views-grid">
+                        <!-- Row 1: empty | top | empty | empty -->
+                        <div class="view-cell empty"></div>
+                        <div class="view-cell">
+                            <div class="view-label">Top</div>
+                            <canvas id="view-top" class="view-canvas"></canvas>
+                        </div>
+                        <div class="view-cell empty"></div>
+                        <div class="view-cell empty"></div>
+
+                        <!-- Row 2: left | front | back | right -->
+                        <div class="view-cell">
+                            <div class="view-label">Left</div>
+                            <canvas id="view-left" class="view-canvas"></canvas>
+                        </div>
+                        <div class="view-cell">
+                            <div class="view-label">Front</div>
+                            <canvas id="view-front" class="view-canvas"></canvas>
+                        </div>
+                        <div class="view-cell">
+                            <div class="view-label">Back</div>
+                            <canvas id="view-back" class="view-canvas"></canvas>
+                        </div>
+                        <div class="view-cell">
+                            <div class="view-label">Right</div>
+                            <canvas id="view-right" class="view-canvas"></canvas>
+                        </div>
+
+                        <!-- Row 3: empty | bottom | empty | empty -->
+                        <div class="view-cell empty"></div>
+                        <div class="view-cell">
+                            <div class="view-label">Bottom</div>
+                            <canvas id="view-bottom" class="view-canvas"></canvas>
+                        </div>
+                        <div class="view-cell empty"></div>
+                        <div class="view-cell empty"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Three.js libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/renderers/CSS2DRenderer.js"></script>
+    
+    <!-- Application scripts -->
+    <script src="arc-colors.js"></script>
+    <script src="three-scene.js"></script>
+    <script src="viewer.js"></script>
+</body>
+</html>
